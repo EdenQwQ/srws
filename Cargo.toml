@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 xdotool = "0.0.2"
+xcb = "0.10.1"

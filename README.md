@@ -1,13 +1,12 @@
 # Simple Rust Window Swallower
 
-srws is a window swallower written in Rust, inspired by the dwm patch [swallow](https://dwm.suckless.org/patches/swallow/).
+srws is a window swallower for X written in Rust, inspired by the dwm patch [swallow](https://dwm.suckless.org/patches/swallow/).
 
 ## Installation
 
 ### Dependencies
 
  - cargo
- - xdotool
 
 ```bash
 git clone https://github.com/EdenQwQ/srws
