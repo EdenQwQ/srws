@@ -7,6 +7,7 @@ srws is a window swallower for X written in Rust, inspired by the dwm patch [swa
 ### Dependencies
 
  - cargo
+ - libxcb
 
 ```bash
 git clone https://github.com/EdenQwQ/srws
